@@ -1,1 +1,1 @@
-# sis
+# student information system
